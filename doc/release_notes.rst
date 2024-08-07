@@ -19,6 +19,8 @@ E.g. if a new rule becomes available describe how to use it `snakemake -j1 run_t
 **Minor Changes and bug-fixing**
 
 
+* Fix minor bug for advanced csp implementation `PR #1076 <https://github.com/pypsa-meets-earth/pypsa-earth/pull/1076>`__
+
 
 PyPSA-Earth 0.4.0
 =================
